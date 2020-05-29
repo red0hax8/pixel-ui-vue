@@ -1,4 +1,7 @@
-# pixel-ui
+# pixel-ui-vue
+
+## Description
+Pixel-style UI component library, Used for own blog: https://www.red0hax.com. Will be updated continuously
 
 ## Project setup
 ```

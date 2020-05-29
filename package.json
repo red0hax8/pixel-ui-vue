@@ -1,22 +1,31 @@
 {
-  "name": "pixel-ui-vue",
-  "version": "1.0.0",
-  "description": "pixel-ui for vue",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/red0hax/pixel-ui.git"
-  },
-  "keywords": [
-    "pixel"
-  ],
+  "name": "red0hax",
   "author": "red0hax",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/red0hax/pixel-ui-vue/issues"
+  "version": "0.1.0",
+  "description": "pixel像素风格的组件",
+  "keyword": "pixel",
+  "private": false,
+  "main": "lib/index/index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
   },
-  "homepage": "https://github.com/red0hax/pixel-ui-vue#readme"
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.4.0",
+    "@vue/cli-plugin-eslint": "~4.4.0",
+    "@vue/cli-plugin-router": "~4.4.0",
+    "@vue/cli-service": "~4.4.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
 }

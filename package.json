@@ -1,8 +1,8 @@
 {
-  "name": "red0hax",
+  "name": "pixel-ui-vue",
   "author": "red0hax",
   "version": "0.1.0",
-  "description": "pixel像素风格的组件",
+  "description": "Pixel style UI component library",
   "keyword": "pixel",
   "private": false,
   "main": "lib/index/index.js",

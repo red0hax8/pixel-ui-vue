@@ -1,9 +1,9 @@
 {
   "name": "pixel-ui-vue",
   "author": "red0hax",
-  "version": "1.0.0",
+  "version": "0.2.1",
   "description": "Pixel style UI component library",
-  "keywords": ["pixel","pixel-ui","ui","Pixel"],
+  "keywords": ["pixel","pixel-ui","ui","Pixel","vue"],
   "private": false,
   "main": "lib/index/index.js",
   "scripts": {

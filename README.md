@@ -17,6 +17,8 @@ main.js
 ```
 import pixelUI from 'pixel-ui-vue'
 import "pixel-ui-vue/lib/style/index.css";
+
+Vue.use(pixelUI)
 ```
 
 ## Project setup

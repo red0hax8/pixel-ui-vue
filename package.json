@@ -1,9 +1,15 @@
 {
   "name": "pixel-ui-vue",
   "author": "red0hax",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Pixel style UI component library",
-  "keywords": ["pixel","pixel-ui","ui","Pixel","vue"],
+  "keywords": [
+    "pixel",
+    "pixel-ui",
+    "ui",
+    "Pixel",
+    "vue"
+  ],
   "private": false,
   "main": "lib/index/index.js",
   "scripts": {
@@ -26,6 +32,7 @@
     "eslint-plugin-vue": "^6.2.2",
     "node-sass": "^4.12.0",
     "sass-loader": "^8.0.2",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.11",
+    "websocket-extensions": ">=0.1.4"
   }
 }
